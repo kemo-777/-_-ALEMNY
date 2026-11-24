@@ -3,3 +3,6 @@ uvicorn
 httpx
 cachetools
 pydantic
+streamlit
+requests
+pandas

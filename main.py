@@ -6,6 +6,7 @@ from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import httpx
 from cachetools import TTLCache
+import streamlit as st
 
 # ==========================================================
 # منصة علّمني العالمية الخارق (Allamni Ultimate Engine)
